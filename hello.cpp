@@ -6,5 +6,6 @@ int main() {
     cout<<"number: ";
     cin >> num;
     cout<< num << endl;
+    cout << "test :D\n";
     return 0;
 }
